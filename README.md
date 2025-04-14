@@ -1,2 +1,2 @@
-# wangzihao1234567.github.io readme
-nihao
+# wangzihao1234567的主页
+第一个网页，中医药介绍
